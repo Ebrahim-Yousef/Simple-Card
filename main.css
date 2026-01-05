@@ -17,23 +17,23 @@ body {
   border-radius: 10px;
 }
 
-img{
+img {
   width: 50px;
   height: 50px;
   border-radius: 50%;
   margin: auto;
   display: block;
 }
-h2{
+h2 {
   color: #ffffff;
   font-weight: 600;
 }
-.address{
+.address {
   color: goldenrod;
   font-weight: bolder;
 }
 
-.container span{
+.container span {
   color: azure;
   font-size: 0.8em;
 }
@@ -45,7 +45,7 @@ h2{
   width: 80%;
   margin: auto;
 }
-.buts button{
+.buts button {
   all: unset;
   background-color: black;
   color: white;
@@ -55,7 +55,7 @@ h2{
   transition: background-color 0.2s;
 }
 
-.buts button:hover{
+.buts button:hover {
   background-color: white;
   color: black;
 }
